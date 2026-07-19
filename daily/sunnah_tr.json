@@ -1,0 +1,186 @@
+{
+  "type": "sunnah",
+  "version": 1,
+  "items": [
+    {
+      "title": "Selâmı yaymak",
+      "detail": "Peygamberimiz (s.a.v.) tanıdık-tanımadık herkese selâm vermeyi imanın gereği saymıştır.",
+      "action": "Bugün en az 5 kişiye önce sen selâm ver.",
+      "source": "Müslim, Îmân 93 — sahih"
+    },
+    {
+      "title": "Tebessüm etmek",
+      "detail": "Kardeşine tebessüm etmek sadaka sayılmıştır.",
+      "action": "Bugün karşılaştığın herkese güler yüzle yaklaş.",
+      "source": "Tirmizî, Birr 36 — hasen-sahih"
+    },
+    {
+      "title": "Misvak / diş temizliği",
+      "detail": "Resûlullah (s.a.v.) her namaz öncesi misvak kullanmayı tavsiye etmiştir.",
+      "action": "Bugün her abdestte dişlerini temizle.",
+      "source": "Buhârî, Cum'a 8 — sahih"
+    },
+    {
+      "title": "Sağdan başlamak",
+      "detail": "Peygamberimiz giyinmede, taranmada ve temizlikte sağdan başlamayı severdi.",
+      "action": "Bugün ayakkabını sağdan giy, evden sağ adımla çık.",
+      "source": "Buhârî, Vudû 31; Müslim, Tahâret 66 — sahih"
+    },
+    {
+      "title": "Yemeğe besmeleyle başlamak",
+      "detail": "Yemeğe besmeleyle başlanır, sağ elle ve önünden yenir.",
+      "action": "Bugün her öğünde besmeleyi sesli çek.",
+      "source": "Buhârî, Et'ime 2; Müslim, Eşribe 108 — sahih"
+    },
+    {
+      "title": "Az yemek / ölçülü sofra",
+      "detail": "'Âdemoğlu midesinden daha kötü bir kap doldurmamıştır' buyrulmuştur.",
+      "action": "Bugün sofradan tam doymadan kalk.",
+      "source": "Tirmizî, Zühd 47 — hasen-sahih"
+    },
+    {
+      "title": "Su içme âdâbı",
+      "detail": "Su oturarak, üç nefeste ve besmeleyle içilir.",
+      "action": "Bugün suyu oturarak ve üç yudumda iç.",
+      "source": "Müslim, Eşribe 121 — sahih"
+    },
+    {
+      "title": "Kuşluk (Duhâ) namazı",
+      "detail": "İki rekât kuşluk namazı, vücuttaki her eklem için sadaka yerine geçer.",
+      "action": "Bugün kuşluk vaktinde 2 rekât kıl.",
+      "source": "Müslim, Müsâfirîn 84 — sahih"
+    },
+    {
+      "title": "Namaz sonrası tesbihat",
+      "detail": "Her farz namazdan sonra 33 Sübhânallah, 33 Elhamdülillâh, 33 Allahu Ekber.",
+      "action": "Bugün en az bir namazın tesbihatını eksiksiz yap.",
+      "source": "Müslim, Mesâcid 146 — sahih"
+    },
+    {
+      "title": "Sabah-akşam zikirleri",
+      "detail": "Peygamberimiz sabah ve akşam koruyucu zikirleri terk etmezdi.",
+      "action": "Bugün sabah ve akşam 3'er kez İhlâs-Felak-Nâs oku.",
+      "source": "Ebû Dâvûd, Edeb 100 — hasen-sahih"
+    },
+    {
+      "title": "Cuma günü Kehf sûresi",
+      "detail": "Cuma günü Kehf sûresini okuyana iki cuma arası nur olur.",
+      "action": "Bu cuma Kehf sûresinden en az 10 ayet oku.",
+      "source": "Hâkim, Müstedrek II/399 — sahih (Elbânî)"
+    },
+    {
+      "title": "Peygamberimize salavât",
+      "detail": "'Kim bana bir salavât getirirse Allah ona on rahmet eder.'",
+      "action": "Bugün 100 salavât getir (yürürken, beklerken).",
+      "source": "Müslim, Salât 70 — sahih"
+    },
+    {
+      "title": "İstiğfârı çoğaltmak",
+      "detail": "Resûlullah (s.a.v.) günde yüz defa istiğfâr ederdi.",
+      "action": "Bugün 100 kez 'Estağfirullah' de.",
+      "source": "Müslim, Zikir 41 — sahih"
+    },
+    {
+      "title": "Hastayı ziyaret",
+      "detail": "Hasta ziyareti müslümanın müslüman üzerindeki haklarındandır.",
+      "action": "Bugün hasta bir tanıdığını ara veya ziyaret et.",
+      "source": "Buhârî, Cenâiz 2; Müslim, Selâm 4 — sahih"
+    },
+    {
+      "title": "Akraba ziyareti (sıla-i rahim)",
+      "detail": "Sıla-i rahim ömrü ve rızkı bereketlendirir.",
+      "action": "Bugün uzak kaldığın bir akrabanı ara.",
+      "source": "Buhârî, Edeb 12; Müslim, Birr 20-21 — sahih"
+    },
+    {
+      "title": "İkramda bulunmak",
+      "detail": "'Yemek yedirin, selâmı yayın' buyrulmuştur.",
+      "action": "Bugün birine çay, yemek veya küçük bir ikramda bulun.",
+      "source": "Tirmizî, Kıyâme 42 — hasen-sahih"
+    },
+    {
+      "title": "Güzel söz söylemek",
+      "detail": "Güzel söz sadakadır; kötü söze karşı susmak da hikmettir.",
+      "action": "Bugün kimse hakkında olumsuz konuşma.",
+      "source": "Buhârî, Edeb 34; Müslim, Zekât 56 — sahih"
+    },
+    {
+      "title": "Öfkeyi yutmak",
+      "detail": "Öfkelenince 'eûzü' çekmek ve gerekirse oturmak/abdest almak tavsiye edilmiştir.",
+      "action": "Bugün öfkelendiğinde 10'a kadar say ve eûzü çek.",
+      "source": "Buhârî, Edeb 44; Ebû Dâvûd, Edeb 4 — sahih/hasen"
+    },
+    {
+      "title": "Eve girerken selâm ve besmele",
+      "detail": "Besmeleyle girilen eve şeytan giremez.",
+      "action": "Bugün eve her girişte besmele çek ve içeridekilere selâm ver.",
+      "source": "Müslim, Eşribe 103 — sahih"
+    },
+    {
+      "title": "Yatmadan abdest",
+      "detail": "Abdestli uyumak, geceyi zikirle mühürlemektir.",
+      "action": "Bu gece abdest alarak yat.",
+      "source": "Buhârî, Deavât 6 — sahih"
+    },
+    {
+      "title": "Sağ yanına yatmak",
+      "detail": "Peygamberimiz sağ yanı üzerine yatar ve uyku duasını okurdu.",
+      "action": "Bu gece sağ yanına yat ve 'Bismike'llâhümme...' duasını oku.",
+      "source": "Buhârî, Deavât 5 — sahih"
+    },
+    {
+      "title": "Erken yatıp erken kalkmak",
+      "detail": "Yatsıdan sonra gereksiz konuşma hoş görülmemiş, günün bereketi erken saatlere konmuştur.",
+      "action": "Bu gece yatsıdan sonra ekranı kapat, erken yat.",
+      "source": "Buhârî, Mevâkît 23 — sahih"
+    },
+    {
+      "title": "Aksırana dua",
+      "detail": "Aksırıp 'Elhamdülillâh' diyene 'Yerhamükellâh' denir.",
+      "action": "Bugün aksıran herkese 'Yerhamükellâh' de.",
+      "source": "Buhârî, Edeb 126 — sahih"
+    },
+    {
+      "title": "Ayna karşısında dua",
+      "detail": "'Allah'ım, yaratılışımı güzelleştirdiğin gibi ahlâkımı da güzelleştir.'",
+      "action": "Bugün aynaya bakınca bu duayı oku.",
+      "source": "Ahmed b. Hanbel, Müsned I/403 — sahih (Elbânî)"
+    },
+    {
+      "title": "Cumartesi-Pazartesi-Perşembe orucu fikri",
+      "detail": "Pazartesi ve perşembe günleri ameller arz edilir; Peygamberimiz bugünlerde oruçlu olmayı severdi.",
+      "action": "Önümüzdeki pazartesi veya perşembe için oruca niyetlen.",
+      "source": "Tirmizî, Savm 44 — hasen"
+    },
+    {
+      "title": "Komşuya iyilik",
+      "detail": "Cebrâil komşu hakkını o kadar tavsiye etti ki 'mirasçı kılınacak' sanıldı.",
+      "action": "Bugün bir komşunun halini hatırını sor.",
+      "source": "Buhârî, Edeb 28; Müslim, Birr 140 — sahih"
+    },
+    {
+      "title": "İşi sağlam yapmak (itkān)",
+      "detail": "'Allah, sizden birinizin yaptığı işi sağlam yapmasını sever.'",
+      "action": "Bugün bir işini her zamankinden daha özenli bitir.",
+      "source": "Beyhakî, Şuabü'l-Îmân — hasen (Elbânî)"
+    },
+    {
+      "title": "Az da olsa devamlı amel",
+      "detail": "Amellerin Allah'a en sevimlisi az da olsa devamlı olanıdır.",
+      "action": "Bugün küçük bir ibadeti (1 sayfa Kur'an gibi) 'her gün' sözüyle başlat.",
+      "source": "Buhârî, Rikāk 18; Müslim, Müsâfirîn 218 — sahih"
+    },
+    {
+      "title": "Teşekkür etmek",
+      "detail": "'İnsanlara teşekkür etmeyen Allah'a şükretmez.'",
+      "action": "Bugün emeği geçen birine açıkça teşekkür et.",
+      "source": "Ebû Dâvûd, Edeb 11; Tirmizî, Birr 35 — sahih"
+    },
+    {
+      "title": "Hediyeleşmek",
+      "detail": "'Hediyeleşin ki birbirinize sevginiz artsın.'",
+      "action": "Bu hafta sevdiğin birine küçük bir hediye planla.",
+      "source": "Buhârî, el-Edebü'l-Müfred 594 — hasen (Elbânî)"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# El-Aziz icerik CDN'i — satir-sonu normalizasyonunu KAPAT.
+# sha256'lar dosyalarin LF baytlarindan hesaplandi; git CRLF'e cevirirse
+# jsDelivr farkli bayt sunar ve uygulama indirmeyi sha uyusmazligiyla REDDEDER.
+# Bu yuzden tum dosyalar "binary/-text" olarak islenir (bayt korunur).
+* -text
+*.json -text

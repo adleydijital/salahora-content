@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "note": "El-Aziz uzaktan icerik manifesti. version artirilinca uygulama yeni icerigi indirir. sha256 = dosyanin ham baytlarinin SHA-256'si (LF).",
+  "entries": {
+    "quiz.tr": {
+      "version": 2,
+      "path": "quiz/quiz_tr.json",
+      "sha256": "f350ce15db414250b8b8e2ccae6d5a64d9d6077e1e1dab660050a97b83be799f"
+    },
+    "daily.ayah.tr": {
+      "version": 1,
+      "path": "daily/ayah_tr.json",
+      "sha256": "028736540461a170aca14245ac46cb2d9bd85958d64ddf78691efa7d83c095a5"
+    },
+    "daily.hadith.tr": {
+      "version": 1,
+      "path": "daily/hadith_tr.json",
+      "sha256": "00be5b9a4fc907ff82cc7545927f564c26317c59432128f366d36be0f1ea4bfb"
+    },
+    "daily.dua.tr": {
+      "version": 1,
+      "path": "daily/dua_tr.json",
+      "sha256": "220f2bad0dd2dc29544715a2127149be48acd6b15b50c4a7e1908f2bfa43307b"
+    },
+    "daily.sunnah.tr": {
+      "version": 1,
+      "path": "daily/sunnah_tr.json",
+      "sha256": "d8a4e616c45bb2a1f9d4d6e3690d1bd2526a647d38e957b44ef2942166999813"
+    },
+    "daily.dhikr.tr": {
+      "version": 1,
+      "path": "daily/dhikr_tr.json",
+      "sha256": "440d2f86dd9e2ab2d148978debfea0fa223ce3ee334b46e84c2afe73bf93e62f"
+    },
+    "daily.esma.tr": {
+      "version": 1,
+      "path": "daily/esma_tr.json",
+      "sha256": "d882ac421b882b61eec6f0a0261bed2be7ba527b8f8bb21c1c3132d03e8301e9"
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "type": "hadith",
+  "version": 1,
+  "note": "Hadis çevirileri özgün kısa aktarımdır. source + grade alanları ZORUNLUDUR (Bölüm 7.3).",
+  "items": [
+    {
+      "text": "Ameller niyetlere göredir; herkese ancak niyet ettiği vardır.",
+      "source": "Buhârî, Bed'ü'l-Vahy 1; Müslim, İmâre 155",
+      "grade": "Sahih (müttefekun aleyh)"
+    },
+    {
+      "text": "Sizden biriniz kendisi için istediğini (mümin) kardeşi için de istemedikçe iman etmiş olmaz.",
+      "source": "Buhârî, Îmân 7; Müslim, Îmân 71",
+      "grade": "Sahih (müttefekun aleyh)"
+    },
+    {
+      "text": "Kim Allah'a ve ahiret gününe inanıyorsa ya hayır söylesin ya da sussun.",
+      "source": "Buhârî, Edeb 31; Müslim, Îmân 74",
+      "grade": "Sahih (müttefekun aleyh)"
+    },
+    {
+      "text": "Müslüman, elinden ve dilinden diğer müslümanların güvende olduğu kimsedir.",
+      "source": "Buhârî, Îmân 4; Müslim, Îmân 64",
+      "grade": "Sahih (müttefekun aleyh)"
+    },
+    {
+      "text": "Kolaylaştırın, zorlaştırmayın; müjdeleyin, nefret ettirmeyin.",
+      "source": "Buhârî, İlim 11; Müslim, Cihâd 6",
+      "grade": "Sahih (müttefekun aleyh)"
+    },
+    {
+      "text": "Allah katında amellerin en sevimlisi, az da olsa devamlı olanıdır.",
+      "source": "Buhârî, Rikāk 18; Müslim, Müsâfirîn 218",
+      "grade": "Sahih (müttefekun aleyh)"
+    },
+    {
+      "text": "Temizlik imanın yarısıdır.",
+      "source": "Müslim, Tahâret 1",
+      "grade": "Sahih"
+    },
+    {
+      "text": "Güzel söz sadakadır.",
+      "source": "Buhârî, Edeb 34; Müslim, Zekât 56",
+      "grade": "Sahih (müttefekun aleyh)"
+    },
+    {
+      "text": "Din nasihattir (samimiyettir).",
+      "source": "Müslim, Îmân 95",
+      "grade": "Sahih"
+    },
+    {
+      "text": "Kuvvetli kimse güreşte yenen değil, öfke anında kendine hâkim olandır.",
+      "source": "Buhârî, Edeb 76; Müslim, Birr 107",
+      "grade": "Sahih (müttefekun aleyh)"
+    },
+    {
+      "text": "Kim bir hayra öncülük ederse, ona o hayrı yapanın ecri kadar sevap vardır.",
+      "source": "Müslim, İmâre 133",
+      "grade": "Sahih"
+    },
+    {
+      "text": "Sadaka malı eksiltmez; Allah affeden kulun ancak izzetini artırır.",
+      "source": "Müslim, Birr 69",
+      "grade": "Sahih"
+    },
+    {
+      "text": "İki nimet vardır ki insanların çoğu bunlarda aldanmıştır: sağlık ve boş vakit.",
+      "source": "Buhârî, Rikāk 1",
+      "grade": "Sahih"
+    },
+    {
+      "text": "Cennet annelerin ayakları altındadır (anneye hizmetle kazanılır).",
+      "source": "Nesâî, Cihâd 6; Ahmed b. Hanbel, Müsned III/429",
+      "grade": "Hasen"
+    },
+    {
+      "text": "Komşusu açken tok yatan (kâmil manada) bizden değildir.",
+      "source": "Hâkim, Müstedrek II/15; Taberânî",
+      "grade": "Hasen/Sahih (Elbânî sahih demiştir)"
+    },
+    {
+      "text": "Mümin, bir delikten iki kez ısırılmaz (aynı hataya iki kez düşmez).",
+      "source": "Buhârî, Edeb 83; Müslim, Zühd 63",
+      "grade": "Sahih (müttefekun aleyh)"
+    },
+    {
+      "text": "Allah sizin suretlerinize ve mallarınıza değil, kalplerinize ve amellerinize bakar.",
+      "source": "Müslim, Birr 34",
+      "grade": "Sahih"
+    },
+    {
+      "text": "Kim bir kötülük görürse eliyle düzeltsin; gücü yetmezse diliyle; ona da yetmezse kalbiyle buğzetsin. Bu, imanın en zayıfıdır.",
+      "source": "Müslim, Îmân 78",
+      "grade": "Sahih"
+    },
+    {
+      "text": "Birbirinize haset etmeyin, sırt çevirmeyin; ey Allah'ın kulları, kardeş olun.",
+      "source": "Buhârî, Edeb 57; Müslim, Birr 28-34",
+      "grade": "Sahih (müttefekun aleyh)"
+    },
+    {
+      "text": "Kul, kardeşinin yardımında olduğu sürece Allah da onun yardımındadır.",
+      "source": "Müslim, Zikir 38",
+      "grade": "Sahih"
+    },
+    {
+      "text": "Beş vakit namaz, aralarındaki (küçük) günahlara kefarettir.",
+      "source": "Müslim, Tahâret 16",
+      "grade": "Sahih"
+    },
+    {
+      "text": "Sabah namazını kılan kimse Allah'ın koruması altındadır.",
+      "source": "Müslim, Mesâcid 261",
+      "grade": "Sahih"
+    },
+    {
+      "text": "Yatsı ve sabah namazlarındaki sevabı bilselerdi, emekleyerek de olsa cemaate gelirlerdi.",
+      "source": "Buhârî, Ezân 9; Müslim, Salât 129",
+      "grade": "Sahih (müttefekun aleyh)"
+    },
+    {
+      "text": "Kim yatsıyı cemaatle kılarsa gecenin yarısını, sabahı da cemaatle kılarsa bütün geceyi ibadetle geçirmiş gibidir.",
+      "source": "Müslim, Mesâcid 260",
+      "grade": "Sahih"
+    },
+    {
+      "text": "Rabbin en çok razı olduğu amel, vaktinde kılınan namazdır (sonra ana-babaya iyilik, sonra Allah yolunda cihad).",
+      "source": "Buhârî, Mevâkît 5; Müslim, Îmân 137",
+      "grade": "Sahih (müttefekun aleyh)"
+    },
+    {
+      "text": "Kur'an okuyun; çünkü o, kıyamet günü okuyanlarına şefaatçi olarak gelir.",
+      "source": "Müslim, Müsâfirîn 252",
+      "grade": "Sahih"
+    },
+    {
+      "text": "Sizin en hayırlınız Kur'an'ı öğrenen ve öğretendir.",
+      "source": "Buhârî, Fedâilü'l-Kur'ân 21",
+      "grade": "Sahih"
+    },
+    {
+      "text": "Bir müslümanın diktiği ağaçtan insan, hayvan veya kuş yerse, bu onun için sadaka olur.",
+      "source": "Buhârî, Hars 1; Müslim, Müsâkât 12",
+      "grade": "Sahih (müttefekun aleyh)"
+    },
+    {
+      "text": "Kardeşine tebessüm etmen senin için bir sadakadır.",
+      "source": "Tirmizî, Birr 36",
+      "grade": "Hasen-sahih (Tirmizî'nin hükmü)"
+    },
+    {
+      "text": "İnsanlara merhamet etmeyene Allah da merhamet etmez.",
+      "source": "Buhârî, Edeb 18; Müslim, Fedâil 66",
+      "grade": "Sahih (müttefekun aleyh)"
+    }
+  ]
+}
