@@ -18,9 +18,9 @@
       "sha256": "00be5b9a4fc907ff82cc7545927f564c26317c59432128f366d36be0f1ea4bfb"
     },
     "daily.dua.tr": {
-      "version": 1,
+      "version": 2,
       "path": "daily/dua_tr.json",
-      "sha256": "220f2bad0dd2dc29544715a2127149be48acd6b15b50c4a7e1908f2bfa43307b"
+      "sha256": "c58bc2022ab72d323e39fd489889ccc29752ac893628520d96160d27fe568099"
     },
     "daily.sunnah.tr": {
       "version": 1,
@@ -28,9 +28,9 @@
       "sha256": "d8a4e616c45bb2a1f9d4d6e3690d1bd2526a647d38e957b44ef2942166999813"
     },
     "daily.dhikr.tr": {
-      "version": 1,
+      "version": 2,
       "path": "daily/dhikr_tr.json",
-      "sha256": "440d2f86dd9e2ab2d148978debfea0fa223ce3ee334b46e84c2afe73bf93e62f"
+      "sha256": "0dc432f20b4416ac6e6daa5377d44c30f608d93f8029daeec8c00ae53e772ec8"
     },
     "daily.esma.tr": {
       "version": 1,
